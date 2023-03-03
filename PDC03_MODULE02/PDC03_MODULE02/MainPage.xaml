@@ -23,6 +23,9 @@
 
         <Button Text="Activity1" Clicked="OpenActivity1"/>
         <Button Text="Activity2" Clicked="OpenActivity2"/>
+        <Button Text="Activity3" Clicked="OpenActivity3"/>
+        <Button Text="Activity4" Clicked="OpenActivity4"/>
+        <Button Text="Activity5" Clicked="OpenActivity5"/>
 
     </StackLayout>
 
